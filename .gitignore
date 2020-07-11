@@ -11,7 +11,7 @@ log.txt
 *.sublime-workspace
 .vscode/
 npm-debug.log*
-course-02\exercises\udacity-c2-restapi\src\config
+course-02/exercises/udacity-c2-restapi/src/config/
 
 .idea/
 .ionic/
