@@ -7,7 +7,7 @@ export const config = {
     "dialect": "postgres",
     "aws_region": "eu-central-1",
     "aws_profile": "default",
-    "aws_media_bucket": "udagram-fellisch-dev"
+    "aws_media_bucket": "udagram-gfell"
   },
   "prod": {
     "username": "",
